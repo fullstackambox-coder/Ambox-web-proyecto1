@@ -1,0 +1,10 @@
+heather {
+  display: flex;
+  flex-direction: row;
+}
+heather nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+/*# sourceMappingURL=styles.css.map */
